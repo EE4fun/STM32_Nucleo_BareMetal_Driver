@@ -4,5 +4,5 @@ HW platform: Nucleo-F401RE
 
 Goal: Learning STM32 driver development.
 
-1. SPI_drivers
-1.1 38SPI_driver: inistial SPI TX driver.
+1. SPI
+1.1 SPI_driver: inistial SPI TX driver.
